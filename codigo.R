@@ -1,6 +1,4 @@
-library("readxl")
-library("dplyr")
-library("tidyr")
+#he borrado las tres primeras librerias
 library("naniar")
 library("VIM")
 library("simputation")
